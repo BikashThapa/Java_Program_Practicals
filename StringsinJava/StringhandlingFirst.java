@@ -51,5 +51,8 @@ public class StringhandlingFirst {
 		System.out.println(names.equals("Ram kaji basyal")); // checks cases as well 
 		System.out.println(names.equalsIgnoreCase("Ram kaji basyal")); //  case sensitive
 		
+		
+		
+		
 		}
 }
