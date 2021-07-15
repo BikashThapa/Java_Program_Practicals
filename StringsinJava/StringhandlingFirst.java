@@ -1,10 +1,8 @@
 package StringsinJava;
 
 public class StringhandlingFirst {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 		String name = "Brock";
 		// Making String object by using Parameter
 		String name1 = new String("Brock"); 
@@ -50,9 +48,6 @@ public class StringhandlingFirst {
 		// comparing strings in java
 		System.out.println(names.equals("Ram kaji basyal")); // checks cases as well 
 		System.out.println(names.equalsIgnoreCase("Ram kaji basyal")); //  case sensitive
-		
-		
-		
-		
+			
 		}
 }
